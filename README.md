@@ -1,5 +1,4 @@
 # Python-For-Beginners
-This repository is tailored for Python beginners, providing a curated collection of programs. Beginners can embark on a self-learning journey, exploring Python's fundamentals and advanced concepts through hands-on programming examples at their own pace.
 
 The "Beginner Python Programs Repository" is a comprehensive collection of beginner-level Python programs designed to introduce aspiring programmers to the fundamentals of Python development.
 
